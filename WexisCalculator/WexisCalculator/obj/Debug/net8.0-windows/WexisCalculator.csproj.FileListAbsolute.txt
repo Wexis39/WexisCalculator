@@ -1,0 +1,17 @@
+C:\Users\Metehan\source\repos\WexisCalculator\WexisCalculator\obj\Debug\net8.0-windows\WexisCalculator.Form1.resources
+C:\Users\Metehan\source\repos\WexisCalculator\WexisCalculator\obj\Debug\net8.0-windows\WexisCalculator.Properties.Resources.resources
+C:\Users\Metehan\source\repos\WexisCalculator\WexisCalculator\obj\Debug\net8.0-windows\WexisCalculator.csproj.GenerateResource.cache
+C:\Users\Metehan\source\repos\WexisCalculator\WexisCalculator\obj\Debug\net8.0-windows\WexisCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Metehan\source\repos\WexisCalculator\WexisCalculator\obj\Debug\net8.0-windows\WexisCalculator.AssemblyInfoInputs.cache
+C:\Users\Metehan\source\repos\WexisCalculator\WexisCalculator\obj\Debug\net8.0-windows\WexisCalculator.AssemblyInfo.cs
+C:\Users\Metehan\source\repos\WexisCalculator\WexisCalculator\obj\Debug\net8.0-windows\WexisCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Metehan\source\repos\WexisCalculator\WexisCalculator\bin\Debug\net8.0-windows\WexisCalculator.exe
+C:\Users\Metehan\source\repos\WexisCalculator\WexisCalculator\bin\Debug\net8.0-windows\WexisCalculator.deps.json
+C:\Users\Metehan\source\repos\WexisCalculator\WexisCalculator\bin\Debug\net8.0-windows\WexisCalculator.runtimeconfig.json
+C:\Users\Metehan\source\repos\WexisCalculator\WexisCalculator\bin\Debug\net8.0-windows\WexisCalculator.dll
+C:\Users\Metehan\source\repos\WexisCalculator\WexisCalculator\bin\Debug\net8.0-windows\WexisCalculator.pdb
+C:\Users\Metehan\source\repos\WexisCalculator\WexisCalculator\obj\Debug\net8.0-windows\WexisCalculator.dll
+C:\Users\Metehan\source\repos\WexisCalculator\WexisCalculator\obj\Debug\net8.0-windows\refint\WexisCalculator.dll
+C:\Users\Metehan\source\repos\WexisCalculator\WexisCalculator\obj\Debug\net8.0-windows\WexisCalculator.pdb
+C:\Users\Metehan\source\repos\WexisCalculator\WexisCalculator\obj\Debug\net8.0-windows\WexisCalculator.genruntimeconfig.cache
+C:\Users\Metehan\source\repos\WexisCalculator\WexisCalculator\obj\Debug\net8.0-windows\ref\WexisCalculator.dll
